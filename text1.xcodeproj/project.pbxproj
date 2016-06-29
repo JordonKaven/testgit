@@ -14,7 +14,6 @@
 		ED4CC5501D1C5E0600E30069 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED4CC54F1D1C5E0600E30069 /* Assets.xcassets */; };
 		ED4CC5531D1C5E0600E30069 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED4CC5511D1C5E0600E30069 /* LaunchScreen.storyboard */; };
 		ED4CC55C1D1C604600E30069 /* Item3Controller.m in Sources */ = {isa = PBXBuildFile; fileRef = ED4CC55B1D1C604600E30069 /* Item3Controller.m */; };
-		ED4CC55F1D1C649D00E30069 /* Item1Controller.m in Sources */ = {isa = PBXBuildFile; fileRef = ED4CC55E1D1C649D00E30069 /* Item1Controller.m */; };
 		ED4CC5621D1C64B700E30069 /* Item2Controller.m in Sources */ = {isa = PBXBuildFile; fileRef = ED4CC5611D1C64B700E30069 /* Item2Controller.m */; };
 /* End PBXBuildFile section */
 
@@ -32,8 +31,6 @@
 		ED4CC55A1D1C604600E30069 /* Item3Controller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Item3Controller.h; sourceTree = "<group>"; };
 		ED4CC55B1D1C604600E30069 /* Item3Controller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Item3Controller.m; sourceTree = "<group>"; };
 		ED4CC55D1D1C649D00E30069 /* Item1Controller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Item1Controller.h; sourceTree = "<group>"; };
-		ED4CC55E1D1C649D00E30069 /* Item1Controller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Item1Controller.m; sourceTree = "<group>"; };
-		ED4CC5601D1C64B700E30069 /* Item2Controller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Item2Controller.h; sourceTree = "<group>"; };
 		ED4CC5611D1C64B700E30069 /* Item2Controller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Item2Controller.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -72,8 +69,6 @@
 				ED4CC5491D1C5E0600E30069 /* ViewController.h */,
 				ED4CC54A1D1C5E0600E30069 /* ViewController.m */,
 				ED4CC55D1D1C649D00E30069 /* Item1Controller.h */,
-				ED4CC55E1D1C649D00E30069 /* Item1Controller.m */,
-				ED4CC5601D1C64B700E30069 /* Item2Controller.h */,
 				ED4CC5611D1C64B700E30069 /* Item2Controller.m */,
 				ED4CC55A1D1C604600E30069 /* Item3Controller.h */,
 				ED4CC55B1D1C604600E30069 /* Item3Controller.m */,
@@ -170,7 +165,6 @@
 				ED4CC5481D1C5E0600E30069 /* AppDelegate.m in Sources */,
 				ED4CC55C1D1C604600E30069 /* Item3Controller.m in Sources */,
 				ED4CC5451D1C5E0600E30069 /* main.m in Sources */,
-				ED4CC55F1D1C649D00E30069 /* Item1Controller.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -321,6 +315,7 @@
 				ED4CC5591D1C5E0600E30069 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
