@@ -15,6 +15,7 @@
 		ED4CC5531D1C5E0600E30069 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED4CC5511D1C5E0600E30069 /* LaunchScreen.storyboard */; };
 		ED4CC55C1D1C604600E30069 /* Item3Controller.m in Sources */ = {isa = PBXBuildFile; fileRef = ED4CC55B1D1C604600E30069 /* Item3Controller.m */; };
 		ED4CC5621D1C64B700E30069 /* Item2Controller.m in Sources */ = {isa = PBXBuildFile; fileRef = ED4CC5611D1C64B700E30069 /* Item2Controller.m */; };
+		ED5F60551D241D08002CFE39 /* Item1Controller.m in Sources */ = {isa = PBXBuildFile; fileRef = ED5F60531D241D08002CFE39 /* Item1Controller.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,8 @@
 		ED4CC55B1D1C604600E30069 /* Item3Controller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Item3Controller.m; sourceTree = "<group>"; };
 		ED4CC55D1D1C649D00E30069 /* Item1Controller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Item1Controller.h; sourceTree = "<group>"; };
 		ED4CC5611D1C64B700E30069 /* Item2Controller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Item2Controller.m; sourceTree = "<group>"; };
+		ED5F60531D241D08002CFE39 /* Item1Controller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Item1Controller.m; sourceTree = "<group>"; };
+		ED5F60541D241D08002CFE39 /* Item2Controller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Item2Controller.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +74,8 @@
 				ED4CC55D1D1C649D00E30069 /* Item1Controller.h */,
 				ED4CC5611D1C64B700E30069 /* Item2Controller.m */,
 				ED4CC55A1D1C604600E30069 /* Item3Controller.h */,
+				ED5F60531D241D08002CFE39 /* Item1Controller.m */,
+				ED5F60541D241D08002CFE39 /* Item2Controller.h */,
 				ED4CC55B1D1C604600E30069 /* Item3Controller.m */,
 				ED4CC54C1D1C5E0600E30069 /* Main.storyboard */,
 				ED4CC54F1D1C5E0600E30069 /* Assets.xcassets */,
@@ -164,6 +169,7 @@
 				ED4CC5621D1C64B700E30069 /* Item2Controller.m in Sources */,
 				ED4CC5481D1C5E0600E30069 /* AppDelegate.m in Sources */,
 				ED4CC55C1D1C604600E30069 /* Item3Controller.m in Sources */,
+				ED5F60551D241D08002CFE39 /* Item1Controller.m in Sources */,
 				ED4CC5451D1C5E0600E30069 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
